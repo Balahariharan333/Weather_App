@@ -8,7 +8,7 @@ A beautiful and responsive Flutter weather app that fetches real-time weather da
 
 | Weather App |
 |-------------|
-| ![Input](screenshots/translator_input.png) |
+| ![Weather Display](https://github.com/Balahariharan333/Weather_App/blob/master/WeatherApp%20Screenshots/Screenshot%202025-06-12%20062917.png?raw=true)|
 
 
 ---
@@ -25,7 +25,7 @@ A beautiful and responsive Flutter weather app that fetches real-time weather da
 
 - 💙 Flutter
 - 🐦 Dart
-- ☁️ [OpenWeatherMap API](https://openweathermap.org/) *(or the API you used)*
+- ☁️ [OpenWeatherMap API](https://openweathermap.org/) 
 - 📦 `http` package
 
 ---
